@@ -1,3 +1,4 @@
+[Harithamuralidharan](https://github.com/Harithamuralidharan/Harithamuralidharan/blob/fe35b2bf68ad5a1d8803177a85c60f689ba25f9b/profile%20photo.jpg?raw=true)
 <h1 align="center">Hi 👋, I'm Haritha M</h1>
 <h3 align="center">A passionate Data Science & Machine Learning from India</h3>
 
@@ -5,7 +6,7 @@
 
 - 🔭 I’m currently working on **my final projects**
 
-- 🌱 I’m currently learning **Data Science & Machine Learning**
+- 🌱 I’m pursuing  **Data Science & Machine Learning**
 
 - 🤝 I’m looking for help with **optimizing data workflows, implementing machine learning models, and ensuring the efficient extraction, transformation, and loading of large datasets to enable data-driven decision-making and predictive analytics."**
 
