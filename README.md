@@ -1,4 +1,4 @@
-[Harithamuralidharan](https://github.com/Harithamuralidharan/Harithamuralidharan/blob/fe35b2bf68ad5a1d8803177a85c60f689ba25f9b/profile%20photo.jpg?raw=true)
+![Harithamuralidharan](https://github.com/Harithamuralidharan/Harithamuralidharan/blob/fe35b2bf68ad5a1d8803177a85c60f689ba25f9b/profile%20photo.jpg?raw=true)
 <h1 align="center">Hi 👋, I'm Haritha M</h1>
 <h3 align="center">A passionate Data Science & Machine Learning from India</h3>
 
