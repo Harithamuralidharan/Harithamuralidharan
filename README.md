@@ -1,4 +1,3 @@
-![Harithamuralidharan]
 <h1 align="center">Hi 👋, I'm Haritha M</h1>
 <h3 align="center">A passionate Data Science & Machine Learning from India</h3>
 
